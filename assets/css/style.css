@@ -496,7 +496,7 @@ h1, h2, h3, h4, h5, h6 {
 # Sections General
 --------------------------------------------------------------*/
 section {
-  padding: 60px 0;
+  padding: 40px 0;
 }
 
 .section-bg {
@@ -1266,6 +1266,23 @@ section {
   }
 }
 
+.col-lg-4{
+margin-top: 50px;
+}
+
+.col-lg-6{
+  margin-top: 50px;
+}
+
+.icofont-rounded-right{
+  display: flex;
+  justify-content: flex-start;
+}
+
+.datos{
+  display: flex;
+  justify-content: flex-start;
+}
 
 
 /* button website */
