@@ -1,0 +1,19 @@
+{
+  "name": "portafolio-huamani",
+  "version": "1.0.0",
+  "description": "",
+  "main": "assets/js/main.js",
+  "scripts": {
+    "start": "node assets/js/main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KatyLuHT/Portafolio-HUAMANI.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KatyLuHT/Portafolio-HUAMANI/issues"
+  },
+  "homepage": "https://github.com/KatyLuHT/Portafolio-HUAMANI#readme"
+}
